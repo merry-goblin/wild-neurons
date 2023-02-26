@@ -1,0 +1,22 @@
+
+* {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+html, body {
+	height: 100%;
+	min-height: 900px;
+	
+	background-color: transparent;
+	color: #333;
+}
+
+section.global {
+	position: relative;
+	top: 50%;
+	width: 1150px;
+	height: 900px;
+	margin: -450px auto;
+	padding: 0px;
+}
