@@ -13,7 +13,7 @@ A squirrel has to eat nuts and not being eaten by a wolf
 A wolf has to eat this squirrel
 A squirrel is safe in the world center
 
-[![print](print.jpg)]
+![print](print.jpg)
 
 --------------------------
 
